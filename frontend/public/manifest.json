@@ -1,0 +1,25 @@
+{
+  "short_name": "MindfulMe",
+  "name": "MindfulMe - AI Wellness Companion",
+  "icons": [
+    {
+      "src": "mindfulme-logo.svg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "mindfulme-logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    },
+    {
+      "src": "mindfulme-logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1e1e2e",
+  "background_color": "#1e1e2e"
+}
